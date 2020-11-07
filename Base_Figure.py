@@ -1,7 +1,7 @@
 import math
 
 
-class Figure():
+class Figure:
     def __init__(self):
         self.name
         self.angles
